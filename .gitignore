@@ -56,3 +56,8 @@ node_modules
 # gerbers
 ergogen/output/gerbers/*/*
 !ergogen/output/gerbers/*/*.zip
+
+# FreeCAD
+fp-info-cache
+*-backups/
+*.FCBak
